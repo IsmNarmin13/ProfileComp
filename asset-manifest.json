@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ProfileComp/static/css/main.f855e6bc.css",
+    "main.js": "/ProfileComp/static/js/main.334f219e.js",
+    "index.html": "/ProfileComp/index.html",
+    "main.f855e6bc.css.map": "/ProfileComp/static/css/main.f855e6bc.css.map",
+    "main.334f219e.js.map": "/ProfileComp/static/js/main.334f219e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.334f219e.js"
+  ]
+}
